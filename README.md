@@ -1,2 +1,3 @@
-# hint_search
-Поиск с выдачей подсказок (больше 3-х букв)
+## About Project
+
+Search with hints (more than 3 letters).
